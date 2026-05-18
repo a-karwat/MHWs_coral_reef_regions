@@ -10,6 +10,8 @@ R3_prediction_range.R : Plots the prediction range of MHW frequency in coral ree
 
 R4_corr_tab.R : Creates the correlation tables between dominant climate modes of seasonal to multi-year predictability of MHW statistics shown as correlation scores for selected coral reef regions identified in the CESM2-MP during 1981-2020.
 
+All above analyses were performed using R version 4.3.1.
+
 Python1_Plot_MHW_figures.py : Plots the MHW figures (e.g., skill from forcing).
 
 Python2_intrinsic_timescales.py : Calculates and plots the lag-1 autocorrelation and intrinsic timescale of monthly MHW frequency.
