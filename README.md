@@ -1,4 +1,7 @@
-This repository contains the scripts used in Karwat et al. 2026: "Marine heat waves in vulnerable coral reef regions are skillfully predictable on multi-year timescales" published in Nature Communications.
+**This repository contains the scripts used in Karwat et al. 2026: "Marine heat waves in vulnerable coral reef regions are skillfully predictable on multi-year timescales" published in Nature Communications.**
+
+**Read the paper here: https://www.nature.com/articles/s41467-026-78279-1 / 
+https://doi.org/10.1038/s41467-026-78279-1**
 
 Each script and its purpose are described below:
 
